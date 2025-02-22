@@ -14,18 +14,20 @@ Lab 1.5 explores dynamic memory allocation and data structures, including static
 
 ## Topics Covered
 
-### UsesStaticArray
 
-### MallocPrinter
+#### UsesStaticArray
 
-### SimpleDynamicExercise
+#### MallocPrinter
 
-### PythonLists
-#### Objects in OOP
+#### SimpleDynamicExercise
+
+#### PythonLists
+##### Objects in OOP
 - Objects are instances of classes containing attributes (data) and methods (functions).
 - They represent real-world entities or concepts.
+  
 
-### Linked Lists
+#### Linked Lists
 - Linked lists solve memory allocation issues by dynamically assigning values and linking them arbitrarily.
 - Useful for dynamic data storage and creating an ordered sequence of elements.
 - Example output:

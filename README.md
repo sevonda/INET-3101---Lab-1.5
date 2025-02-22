@@ -15,28 +15,15 @@ Lab 1.5 explores dynamic memory allocation and data structures, including static
 ## Topics Covered
 
 ### UsesStaticArray
-- Implementation details missing, but likely involves static arrays where memory is preallocated at compile time.
 
 ### MallocPrinter
-- Demonstrates the use of `malloc()` for dynamic memory allocation.
-- Allows users to specify memory allocation size.
-- Provides an interactive experience where users can continuously add numbers to a dynamically allocated array.
-- Uses a while loop to allow infinite memory reallocation in the heap until the user decides to stop by entering a letter.
-- Prints the final values stored in the dynamically allocated array.
 
 ### SimpleDynamicExercise
-- Likely a basic example demonstrating memory management with dynamic allocation.
 
 ### PythonLists
 #### Objects in OOP
 - Objects are instances of classes containing attributes (data) and methods (functions).
 - They represent real-world entities or concepts.
-
-#### Benefits of OOP
-- **Reusability:** Inheritance allows existing classes to be reused, reducing redundancy.
-- **Maintainability:** Changes in one part of the code have minimal impact elsewhere.
-- **Scalability:** OOP makes it easy to expand systems with new classes and objects.
-- Overall, OOP provides flexibility, reusability, and maintainability in code design.
 
 ### Linked Lists
 - Linked lists solve memory allocation issues by dynamically assigning values and linking them arbitrarily.
@@ -56,7 +43,6 @@ Lab 1.5 explores dynamic memory allocation and data structures, including static
 ### Headers in C
 - Custom headers require a different compilation process than standard library headers.
 - Header files (`.h`) provide function declarations, while implementation is in separate `.c` files.
-- Compilation methodology must be adjusted to properly include custom headers.
 
 ---
 
